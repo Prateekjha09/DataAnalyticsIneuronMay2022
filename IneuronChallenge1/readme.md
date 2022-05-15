@@ -40,4 +40,8 @@ To import any custom theme in Power BI, you need to create a custom .json file w
    }
   }
  }
-}```
+}
+```
+You can convert any image to it's base64 version using this link: https://www.base64-image.de/
+Upload any selected image , and once it is done select the option <b> Copy Image</b> and we will get a base64 link to desired image we want in theme for Power Bi, copy that link and paste in "url" value and save it.
+
