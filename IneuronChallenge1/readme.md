@@ -22,4 +22,22 @@ pip install alchemy
 pip install pymysql # optional installation needed
 ```
 
+To import any custom theme in Power BI, you need to create a custom .json file which I created too and use the following code snippet to create a custom theme for Power BI which is imported later in Power BI desktop but it completely depends on an individual if one wants to add a custom theme for a report
+```json
+{"name":"MyTheme"
 
+,"visualStyles":{"page":{"*":{"background":
+    [
+     {
+                        "image": {
+                            "name": "MyBackground",
+                            "scaling": "Fill",
+                            "url": "image's base 64 link"
+                        },
+                        "transparency": 10
+                    }
+    ]
+   }
+  }
+ }
+}```
