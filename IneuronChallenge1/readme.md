@@ -12,4 +12,14 @@ Use think [link](https://catalog.data.gov/dataset/baton-rouge-crime-incidents) t
 
 Install Microsft Power BI desktop from [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
+Setup MySQL database for your local instance server for storing csv data using this [location](https://dev.mysql.com/downloads/installer/)
+
+Any version of Python 3.6 or above will work comfortably for this project.
+
+A library called 'sqlalchemy' is used for database related operations using python and it's dataframe
+```python
+pip install alchemy
+pip install pymysql # optional installation needed
+```
+
 
