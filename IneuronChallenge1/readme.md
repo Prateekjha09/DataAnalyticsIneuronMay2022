@@ -5,4 +5,11 @@ Crime analysis is a law enforcement duty that involves a systematic investigatio
 
 Our project will help Baton Rouge Police Department in understanding the current pattern in data available in Power BI visuals and help them to be more aware and eradicate any suspected incidents that might happen in the future within the city at any given address and at any given daytime.
 
-Use think [link](https://catalog.data.gov/dataset/baton-rouge-crime-incidents) to access the open source dataset used in this project
+## Dataset:
+Use think [link](https://catalog.data.gov/dataset/baton-rouge-crime-incidents) to access the open source dataset used in this project.
+
+## Installation:
+
+Install Microsft Power BI desktop from [here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+
