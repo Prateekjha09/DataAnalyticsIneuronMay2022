@@ -1,5 +1,5 @@
 
-# Crime Analysis report:
+# Financial Crime Analysis report:
 Financial institutions around the world are turning to data science to combat crime and manage compliance due to the changing nature of crime and a quickly expanding regulatory landscape.
 
 The global financial crisis of 2008 altered the course of history. It had an impact not only on the financial industry, but also on other industries and enterprises around the world. The crisis exposed ineffective policies that resulted in severe fractures that threatened to bring the global financial system to its knees.
