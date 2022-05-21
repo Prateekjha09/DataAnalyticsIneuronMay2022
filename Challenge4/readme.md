@@ -26,13 +26,13 @@ Please check out HLD, LLD and wireframe documents uploaded in repository for mor
 
 ## Steps to be followed for cloning this report:
 
-1. Run the first cell script named LoadingData.ipynb
-2. Open up Microsoft Power BI desktop in your local setup.
-3. Click on <b> Get Data </b> option , search for more connectors and select "Folder"
-4. When prompted, provide the location of folder where all required .csv files are stored.
-5. Import the required table in Power BI desktop or you could with some data cleaning in Power Query editor using "Transform Data" instead of "Load Data".
-6. Create calculated columns and measures based on your need, apply the best suited visuals and you're done.
-7. Just an additional step if sharing is required, you can login to Power BI service with a professional email account and publish it a workspace assigned on your name. For this you can find plenty of resource on how to do so!!
+
+1. Open up Microsoft Power BI desktop in your local setup.
+2. Click on <b> Get Data </b> option , search for more connectors and select "Folder"
+3. When prompted, provide the location of folder where all required .csv files are stored.
+4. Import the required table in Power BI desktop or you could with some data cleaning in Power Query editor using "Transform Data" instead of "Load Data".
+5. Create calculated columns and measures based on your need, apply the best suited visuals and you're done.
+6. Just an additional step if sharing is required, you can login to Power BI service with a professional email account and publish it a workspace assigned on your name. For this you can find plenty of resource on how to do so!!
 
 I hope this helps anyone out there Cheers.
 Please feel free to reach out to me if any changes/ suggestions/ updates that you want in this report on my <b>jha09prateek@gmail.com</b>
