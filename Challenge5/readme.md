@@ -1,5 +1,5 @@
 
-# Crime Analysis report:
+# Restaurant analysis using Bengalore Zomato:
 
 In India, the restaurant industry is booming. Currently, the Indian Restaurant Market is one of the most rapidly expanding in the globe. According to a survey by the National Restaurant Association of India (NRAI), the Indian restaurant industry is predicted to reach INR 5.99 lakh crore by 2022-23, rising at a compounded annual growth rate of 9 percent. Despite the difficulties and problems that restaurant owners have experienced in recent years, operating a restaurant in the near future would open the door to a slew of new chances for aspiring restaurant entrepreneurs.
 
