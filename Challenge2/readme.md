@@ -52,7 +52,8 @@ Please check out HLD, LLD and wireframe documents uploaded in repository for mor
 5. Import the required table in Power BI desktop or you could with some data cleaning in Power Query editor using "Transform Data" instead of "Load Data".
 6. Create calculated columns and measures based on your need, apply the best suited visuals and you're done.
 7. Following are the measures that we used in our current report:
-![image](https://user-images.githubusercontent.com/49709510/168955626-f95514c4-eb0c-4b4d-9e4d-93d686592ad1.png)
+![image](https://user-images.githubusercontent.com/49709510/170095096-7d9154c5-0bec-4c4c-aca4-092b89669475.png)
+
 
 8. Just an additional step if sharing is required, you can login to Power BI service with a professional email account and publish it a workspace assigned on your name. For this you can find plenty of resource on how to do so!!
 
